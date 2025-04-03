@@ -45,6 +45,7 @@ Questo notebook contiene l'intero flusso: esplorazione del dataset, addestrament
 ## Come eseguire l’app (da terminale)
 
 pip install -r requirements.txt
+
 streamlit run app.py 
 
 ---
