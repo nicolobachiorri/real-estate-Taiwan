@@ -42,9 +42,14 @@ Questo notebook contiene l'intero flusso: esplorazione del dataset, addestrament
 
 ---
 
-## Come eseguire l’app
+## Come eseguire l’app (da terminale)
 
-```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run app.py 
+
+---
+
+## Tableau Public 
+
+https://dub01.online.tableau.com/#/site/nbachiorri-b35dff0521/workbooks/2490910?:origin=card_share_link  
 
